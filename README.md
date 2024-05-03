@@ -36,3 +36,5 @@ para valores abaixo de 50% e também mostrar a umidade;
 apresentar os valores médios;
 16. Apresentar o logo animado da equipe no Display durante a inicialização do equipamento.
 
+
+
